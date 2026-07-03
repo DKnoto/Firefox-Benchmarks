@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="59" Full="1.12.59"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2026-07-03T14:51:02Z</dc:date>
+      <meta:creation-date>2026-07-02T14:36:22Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">SDE 3.1</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="2256" Height="1259"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>SDE 3.1</gnm:Name>
+      <gnm:MaxCol>14</gnm:MaxCol>
+      <gnm:MaxRow>106</gnm:MaxRow>
+      <gnm:Zoom>0.75</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#&quot;#REF!&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;SDE 3.1&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>iso_a4</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="0">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="1" endCol="0" endRow="1">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="2" endCol="255" endRow="2">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="3" endCol="0" endRow="6">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="7" endCol="1" endRow="56">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="57" endCol="7" endRow="57">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="58" endCol="1" endRow="106">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="107" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="1" startRow="1" endCol="1" endRow="1">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="1" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="1" startRow="3" endCol="8" endRow="6">
+          <gnm:Style HAlign="GNM_HALIGN_CENTER" VAlign="GNM_VALIGN_CENTER" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="1" endCol="255" endRow="1">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="7" endCol="4" endRow="7">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="8" endCol="7" endRow="56">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="58" endCol="7" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="59" endCol="4" endRow="66">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="2" startRow="67" endCol="7" endRow="106">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="5" startRow="7" endCol="5" endRow="7">
+          <gnm:Style HAlign="GNM_HALIGN_CENTER" VAlign="GNM_VALIGN_CENTER" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="5" startRow="59" endCol="5" endRow="66">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="6" startRow="7" endCol="7" endRow="7">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="6" startRow="59" endCol="7" endRow="66">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="8" startRow="7" endCol="8" endRow="7">
+          <gnm:Style HAlign="GNM_HALIGN_CENTER" VAlign="GNM_VALIGN_CENTER" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="8" startRow="8" endCol="8" endRow="106">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="3" endCol="255" endRow="57">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="58" endCol="9" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="59" endCol="255" endRow="64">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="65" endCol="9" endRow="65">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="9" startRow="66" endCol="255" endRow="106">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="10" startRow="58" endCol="14" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="10" startRow="65" endCol="14" endRow="65">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.0000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="15" startRow="58" endCol="15" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="15" startRow="65" endCol="255" endRow="65">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="16" startRow="58" endCol="16" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="17" startRow="58" endCol="255" endRow="58">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="12" Bold="0" Italic="1" Underline="0" StrikeThrough="0" Script="0">IBM Plex Mono</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="105">
+        <gnm:ColInfo No="1" Unit="99.75" HardSize="1"/>
+        <gnm:ColInfo No="2" Unit="90" HardSize="1" Count="7"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="18.75">
+        <gnm:RowInfo No="1" Unit="20.25"/>
+        <gnm:RowInfo No="3" Unit="20.25" Count="104"/>
+      </gnm:Rows>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="0" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="K4" AnchorMode="GNM_SO_ANCHOR_ONE_CELL" ObjectOffset="0.0143 0.037 1.28e+03 920" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">920</property>
+            <property name="width-pts">1280</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="0" dash="solid" auto-width="0" width="1" auto-color="0" color="0:33:66:FF"/>
+              <fill type="pattern" auto-type="0" is-auto="1" auto-fore="0">
+                <pattern type="grey6.25" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+              </fill>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Title">
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="1" auto-width="1" auto-color="0" color="0:0:80:FF"/>
+                <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Bold Italic 16" auto-scale="1"/>
+                <text_layout/>
+              </property>
+              <property name="anchor">top</property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="position">0.5 0.01 1 1</property>
+              <property name="id">1</property>
+              <data>
+                <dimension id="0" type="GnmGODataScalar">&quot;Firefox 152 performance with JIT in the Speedometer 3.1 test for the Void Linux ppc64le.&quot;</dimension>
+              </data>
+            </GogObject>
+            <GogObject role="Title">
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Italic 14" auto-scale="1"/>
+                <text_layout/>
+              </property>
+              <property name="anchor">top</property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="position">0.5 0.040000000000000001 1 1</property>
+              <property name="id">2</property>
+              <data>
+                <dimension id="0" type="GnmGODataScalar">&quot;All tests conducted on Talos II machine. Additionally added reference from Fedora 42.&quot;</dimension>
+              </data>
+            </GogObject>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="is-plot-area-manual">TRUE</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="0" dash="none" auto-width="1" auto-color="0" color="0:0:80:FF"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+                </fill>
+              </property>
+              <property name="manual-size">size</property>
+              <property name="is-position-manual">TRUE</property>
+              <property name="position">0.074999999999999997 0.074999999999999997 0.84999999999999998 0.84999999999999998</property>
+              <property name="id">1</property>
+              <GogObject role="Grid">
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="0" auto-fore="0">
+                    <pattern type="grey6.25" fore="C0:C0:C0:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+                  </fill>
+                </property>
+                <property name="id">1</property>
+              </GogObject>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="assigned-format-string-XL">@</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="0" color="0:33:66:FF"/>
+                  <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Italic 14" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="3" type="GnmGODataScalar">1</dimension>
+                </data>
+                <GogObject role="MajorGrid">
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="s-dot" auto-width="1" auto-color="0" color="0:33:66:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  </property>
+                  <property name="id">1</property>
+                </GogObject>
+                <GogObject role="Label">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="0" color="0:0:80:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Italic 16" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="anchor">top</property>
+                  <property name="is-position-manual">TRUE</property>
+                  <property name="position">0.5 1.01 1 1</property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Firefox version and compiler options&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="assigned-format-string-XL">0.0</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="0" color="0:33:66:FF"/>
+                  <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Italic 14" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data>
+                  <dimension id="0" type="GnmGODataScalar">0</dimension>
+                  <dimension id="1" type="GnmGODataScalar">7</dimension>
+                  <dimension id="2" type="GnmGODataScalar">1</dimension>
+                  <dimension id="3" type="GnmGODataScalar">0.20000000000000001</dimension>
+                </data>
+                <GogObject role="MajorGrid">
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="s-dot" auto-width="1" auto-color="0" color="0:33:66:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  </property>
+                  <property name="id">1</property>
+                </GogObject>
+                <GogObject role="MinorGrid">
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="0" dash="s-dot" auto-width="1" auto-color="0" color="0:33:66:FF"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                  </property>
+                  <property name="id">1</property>
+                </GogObject>
+                <GogObject role="Label">
+                  <property name="padding-pts">7.086614173228346</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                    <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+                    <font auto-color="0" color="0:33:66:FF" auto-font="0" font="IBM Plex Mono Italic 16" auto-scale="1"/>
+                    <text_layout/>
+                  </property>
+                  <property name="anchor">right</property>
+                  <property name="is-position-manual">TRUE</property>
+                  <property name="position">-0.01 0.5 1 1</property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="0" type="GnmGODataScalar">&quot;Speedometer 3.1 scores&quot;</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+              <GogObject role="Plot" type="GogBarColPlot">
+                <property name="overlap-percentage">10</property>
+                <property name="gap-percentage">100</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <outline auto-dash="1" auto-width="0" width="0.5" auto-color="0" color="0:0:80:FF"/>
+                    <fill type="pattern" auto-type="1" is-auto="0" auto-fore="0">
+                      <pattern type="grey50" fore="99:CC:0:FF" back="FF:FF:FF:FF" auto-pattern="0"/>
+                    </fill>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="-1" type="GnmGODataScalar">&quot;Average&quot;</dimension>
+                    <dimension id="0" type="GnmGODataVector">'SDE 3.1'!$K$59:$O$59</dimension>
+                    <dimension id="1" type="GnmGODataVector">'SDE 3.1'!$K$66:$O$66</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells>
+        <gnm:Cell Row="1" Col="1" ValueType="60">Analysis of Compilation and Execution Times for the SpeeDomEther 3.1 Test for Firefox 151/152 on the Talos 2/ppc64le Platform under Linux</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="60">System</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="60">Fedora 42</gnm:Cell>
+        <gnm:Cell Row="3" Col="3" ValueType="60">Void Linux</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="60">Firefox</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="60">151.0</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="60">152.0.1 with JIT</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="60">Kompilator</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="60">N/A</gnm:Cell>
+        <gnm:Cell Row="5" Col="3" ValueType="60">Gcc 14.2.1</gnm:Cell>
+        <gnm:Cell Row="5" Col="6" ValueType="60">Clang 22.1.4</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="60">Opcje</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="60">N/A</gnm:Cell>
+        <gnm:Cell Row="6" Col="3" ValueType="60">None</gnm:Cell>
+        <gnm:Cell Row="6" Col="4" ValueType="60">LTO</gnm:Cell>
+        <gnm:Cell Row="6" Col="5" ValueType="60">LTO + PGO</gnm:Cell>
+        <gnm:Cell Row="6" Col="6" ValueType="60">None</gnm:Cell>
+        <gnm:Cell Row="6" Col="7" ValueType="60">LTO</gnm:Cell>
+        <gnm:Cell Row="6" Col="8" ValueType="60">LTO + PGO</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="7" Col="2" ValueType="40">1.6811603089961973</gnm:Cell>
+        <gnm:Cell Row="7" Col="3" ValueType="40">5.3232264175650217</gnm:Cell>
+        <gnm:Cell Row="7" Col="4" ValueType="40">5.4485471045421354</gnm:Cell>
+        <gnm:Cell Row="7" Col="5" ValueType="60">N/A</gnm:Cell>
+        <gnm:Cell Row="7" Col="6" ValueType="40">5.4555140071764292</gnm:Cell>
+        <gnm:Cell Row="7" Col="7" ValueType="40">5.6781929791033239</gnm:Cell>
+        <gnm:Cell Row="7" Col="8" ValueType="60">N/A</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ExprID="1">=B8+1</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="40">1.6857289828576107</gnm:Cell>
+        <gnm:Cell Row="8" Col="3" ValueType="40">5.5080716693291425</gnm:Cell>
+        <gnm:Cell Row="8" Col="4" ValueType="40">5.5940081376397277</gnm:Cell>
+        <gnm:Cell Row="8" Col="6" ValueType="40">5.5399616142621548</gnm:Cell>
+        <gnm:Cell Row="8" Col="7" ValueType="40">5.7296048802198465</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ExprID="1"/>
+        <gnm:Cell Row="9" Col="2" ValueType="40">1.6227224549457706</gnm:Cell>
+        <gnm:Cell Row="9" Col="3" ValueType="40">5.5218863761475427</gnm:Cell>
+        <gnm:Cell Row="9" Col="4" ValueType="40">5.6198274628247598</gnm:Cell>
+        <gnm:Cell Row="9" Col="6" ValueType="40">5.5400120440749836</gnm:Cell>
+        <gnm:Cell Row="9" Col="7" ValueType="40">5.7467990069629984</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ExprID="1"/>
+        <gnm:Cell Row="10" Col="2" ValueType="40">1.6659419602648697</gnm:Cell>
+        <gnm:Cell Row="10" Col="3" ValueType="40">5.4709429549848378</gnm:Cell>
+        <gnm:Cell Row="10" Col="4" ValueType="40">5.6275974716977952</gnm:Cell>
+        <gnm:Cell Row="10" Col="6" ValueType="40">5.463691939905825</gnm:Cell>
+        <gnm:Cell Row="10" Col="7" ValueType="40">5.8170067489939585</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ExprID="1"/>
+        <gnm:Cell Row="11" Col="2" ValueType="40">1.6248102856148317</gnm:Cell>
+        <gnm:Cell Row="11" Col="3" ValueType="40">5.4264835669354801</gnm:Cell>
+        <gnm:Cell Row="11" Col="4" ValueType="40">5.5105638945376869</gnm:Cell>
+        <gnm:Cell Row="11" Col="6" ValueType="40">5.5391703534687178</gnm:Cell>
+        <gnm:Cell Row="11" Col="7" ValueType="40">5.8102709657744294</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ExprID="1"/>
+        <gnm:Cell Row="12" Col="2" ValueType="40">1.6425763967789448</gnm:Cell>
+        <gnm:Cell Row="12" Col="3" ValueType="40">5.4220259378082432</gnm:Cell>
+        <gnm:Cell Row="12" Col="4" ValueType="40">5.5270635615603547</gnm:Cell>
+        <gnm:Cell Row="12" Col="6" ValueType="40">5.4923381032770209</gnm:Cell>
+        <gnm:Cell Row="12" Col="7" ValueType="40">5.8261864922172002</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ExprID="1"/>
+        <gnm:Cell Row="13" Col="2" ValueType="40">1.6411929824570153</gnm:Cell>
+        <gnm:Cell Row="13" Col="3" ValueType="40">5.462749618789239</gnm:Cell>
+        <gnm:Cell Row="13" Col="4" ValueType="40">5.5999091559856158</gnm:Cell>
+        <gnm:Cell Row="13" Col="6" ValueType="40">5.5164794053494015</gnm:Cell>
+        <gnm:Cell Row="13" Col="7" ValueType="40">5.8663233483877217</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ExprID="1"/>
+        <gnm:Cell Row="14" Col="2" ValueType="40">1.6494256658649524</gnm:Cell>
+        <gnm:Cell Row="14" Col="3" ValueType="40">5.3749039052341496</gnm:Cell>
+        <gnm:Cell Row="14" Col="4" ValueType="40">5.5795403134693533</gnm:Cell>
+        <gnm:Cell Row="14" Col="6" ValueType="40">5.4706629294198414</gnm:Cell>
+        <gnm:Cell Row="14" Col="7" ValueType="40">5.7692657326844392</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ExprID="1"/>
+        <gnm:Cell Row="15" Col="2" ValueType="40">1.645043389101065</gnm:Cell>
+        <gnm:Cell Row="15" Col="3" ValueType="40">5.4311621076956129</gnm:Cell>
+        <gnm:Cell Row="15" Col="4" ValueType="40">5.478026440453462</gnm:Cell>
+        <gnm:Cell Row="15" Col="6" ValueType="40">5.5029585448096201</gnm:Cell>
+        <gnm:Cell Row="15" Col="7" ValueType="40">5.8099093513562732</gnm:Cell>
+        <gnm:Cell Row="16" Col="1" ExprID="1"/>
+        <gnm:Cell Row="16" Col="2" ValueType="40">1.6223225900121525</gnm:Cell>
+        <gnm:Cell Row="16" Col="3" ValueType="40">5.3692897191707676</gnm:Cell>
+        <gnm:Cell Row="16" Col="4" ValueType="40">5.5836513296175916</gnm:Cell>
+        <gnm:Cell Row="16" Col="6" ValueType="40">5.5324749259643502</gnm:Cell>
+        <gnm:Cell Row="16" Col="7" ValueType="40">5.7768758536052642</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ExprID="1"/>
+        <gnm:Cell Row="17" Col="2" ValueType="40">1.6632461405358914</gnm:Cell>
+        <gnm:Cell Row="17" Col="3" ValueType="40">5.429425716729992</gnm:Cell>
+        <gnm:Cell Row="17" Col="4" ValueType="40">5.4372642171119185</gnm:Cell>
+        <gnm:Cell Row="17" Col="6" ValueType="40">5.4748960595493239</gnm:Cell>
+        <gnm:Cell Row="17" Col="7" ValueType="40">5.6988931195663808</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ExprID="1"/>
+        <gnm:Cell Row="18" Col="2" ValueType="40">1.6667470311529624</gnm:Cell>
+        <gnm:Cell Row="18" Col="3" ValueType="40">5.5629433312674941</gnm:Cell>
+        <gnm:Cell Row="18" Col="4" ValueType="40">5.4878442193585171</gnm:Cell>
+        <gnm:Cell Row="18" Col="6" ValueType="40">5.5632550453610614</gnm:Cell>
+        <gnm:Cell Row="18" Col="7" ValueType="40">5.8754314990971332</gnm:Cell>
+        <gnm:Cell Row="19" Col="1" ExprID="1"/>
+        <gnm:Cell Row="19" Col="2" ValueType="40">1.6591479081893805</gnm:Cell>
+        <gnm:Cell Row="19" Col="3" ValueType="40">5.5122248004999754</gnm:Cell>
+        <gnm:Cell Row="19" Col="4" ValueType="40">5.3180631260811904</gnm:Cell>
+        <gnm:Cell Row="19" Col="6" ValueType="40">5.5009730984192657</gnm:Cell>
+        <gnm:Cell Row="19" Col="7" ValueType="40">5.8328081296888765</gnm:Cell>
+        <gnm:Cell Row="20" Col="1" ExprID="1"/>
+        <gnm:Cell Row="20" Col="2" ValueType="40">1.6403021103935274</gnm:Cell>
+        <gnm:Cell Row="20" Col="3" ValueType="40">5.4703690281911035</gnm:Cell>
+        <gnm:Cell Row="20" Col="4" ValueType="40">5.534249752098515</gnm:Cell>
+        <gnm:Cell Row="20" Col="6" ValueType="40">5.2841974076952631</gnm:Cell>
+        <gnm:Cell Row="20" Col="7" ValueType="40">5.8552505984378067</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ExprID="1"/>
+        <gnm:Cell Row="21" Col="2" ValueType="40">1.640603197628669</gnm:Cell>
+        <gnm:Cell Row="21" Col="3" ValueType="40">5.485903789345925</gnm:Cell>
+        <gnm:Cell Row="21" Col="4" ValueType="40">5.5860941215064628</gnm:Cell>
+        <gnm:Cell Row="21" Col="6" ValueType="40">5.440956363134509</gnm:Cell>
+        <gnm:Cell Row="21" Col="7" ValueType="40">5.7293219211164539</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ExprID="1"/>
+        <gnm:Cell Row="22" Col="2" ValueType="40">1.659938111539599</gnm:Cell>
+        <gnm:Cell Row="22" Col="3" ValueType="40">5.5287156258759209</gnm:Cell>
+        <gnm:Cell Row="22" Col="4" ValueType="40">5.5038222021009808</gnm:Cell>
+        <gnm:Cell Row="22" Col="6" ValueType="40">5.5290647856781279</gnm:Cell>
+        <gnm:Cell Row="22" Col="7" ValueType="40">5.7953487023878898</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ExprID="1"/>
+        <gnm:Cell Row="23" Col="2" ValueType="40">1.6398771431244148</gnm:Cell>
+        <gnm:Cell Row="23" Col="3" ValueType="40">5.3154154518409991</gnm:Cell>
+        <gnm:Cell Row="23" Col="4" ValueType="40">5.4797782075661301</gnm:Cell>
+        <gnm:Cell Row="23" Col="6" ValueType="40">5.4734836731284693</gnm:Cell>
+        <gnm:Cell Row="23" Col="7" ValueType="40">5.7876593528655924</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ExprID="1"/>
+        <gnm:Cell Row="24" Col="2" ValueType="40">1.6415022979813838</gnm:Cell>
+        <gnm:Cell Row="24" Col="3" ValueType="40">5.4365040279939176</gnm:Cell>
+        <gnm:Cell Row="24" Col="4" ValueType="40">5.5115927518755621</gnm:Cell>
+        <gnm:Cell Row="24" Col="6" ValueType="40">5.441029143082881</gnm:Cell>
+        <gnm:Cell Row="24" Col="7" ValueType="40">5.7384250731552333</gnm:Cell>
+        <gnm:Cell Row="25" Col="1" ExprID="1"/>
+        <gnm:Cell Row="25" Col="2" ValueType="40">1.6082352879142248</gnm:Cell>
+        <gnm:Cell Row="25" Col="3" ValueType="40">5.4662762153406748</gnm:Cell>
+        <gnm:Cell Row="25" Col="4" ValueType="40">5.5373797451947819</gnm:Cell>
+        <gnm:Cell Row="25" Col="6" ValueType="40">5.5265433429273463</gnm:Cell>
+        <gnm:Cell Row="25" Col="7" ValueType="40">5.7657851656528356</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ExprID="1"/>
+        <gnm:Cell Row="26" Col="2" ValueType="40">1.6228314090360876</gnm:Cell>
+        <gnm:Cell Row="26" Col="3" ValueType="40">5.2320104038598654</gnm:Cell>
+        <gnm:Cell Row="26" Col="4" ValueType="40">5.4545849810298703</gnm:Cell>
+        <gnm:Cell Row="26" Col="6" ValueType="40">5.3871614078062651</gnm:Cell>
+        <gnm:Cell Row="26" Col="7" ValueType="40">5.7611490010231154</gnm:Cell>
+        <gnm:Cell Row="27" Col="1" ExprID="1"/>
+        <gnm:Cell Row="27" Col="2" ValueType="40">1.6796170644660597</gnm:Cell>
+        <gnm:Cell Row="27" Col="3" ValueType="40">5.4180169267405311</gnm:Cell>
+        <gnm:Cell Row="27" Col="4" ValueType="40">5.5518329532143333</gnm:Cell>
+        <gnm:Cell Row="27" Col="6" ValueType="40">5.3829245015075013</gnm:Cell>
+        <gnm:Cell Row="27" Col="7" ValueType="40">5.7706624796198653</gnm:Cell>
+        <gnm:Cell Row="28" Col="1" ExprID="1"/>
+        <gnm:Cell Row="28" Col="2" ValueType="40">1.6778934435581982</gnm:Cell>
+        <gnm:Cell Row="28" Col="3" ValueType="40">5.5670376928327734</gnm:Cell>
+        <gnm:Cell Row="28" Col="4" ValueType="40">5.5783328203172529</gnm:Cell>
+        <gnm:Cell Row="28" Col="6" ValueType="40">5.3945971694679224</gnm:Cell>
+        <gnm:Cell Row="28" Col="7" ValueType="40">5.836813625663491</gnm:Cell>
+        <gnm:Cell Row="29" Col="1" ExprID="1"/>
+        <gnm:Cell Row="29" Col="2" ValueType="40">1.6625302687663872</gnm:Cell>
+        <gnm:Cell Row="29" Col="3" ValueType="40">5.5003065889349925</gnm:Cell>
+        <gnm:Cell Row="29" Col="4" ValueType="40">5.5004925149555657</gnm:Cell>
+        <gnm:Cell Row="29" Col="6" ValueType="40">5.39832822194405</gnm:Cell>
+        <gnm:Cell Row="29" Col="7" ValueType="40">5.7063439335499213</gnm:Cell>
+        <gnm:Cell Row="30" Col="1" ExprID="1"/>
+        <gnm:Cell Row="30" Col="2" ValueType="40">1.6358405857593576</gnm:Cell>
+        <gnm:Cell Row="30" Col="3" ValueType="40">5.4765866735657625</gnm:Cell>
+        <gnm:Cell Row="30" Col="4" ValueType="40">5.5255700746308811</gnm:Cell>
+        <gnm:Cell Row="30" Col="6" ValueType="40">5.4110841821318862</gnm:Cell>
+        <gnm:Cell Row="30" Col="7" ValueType="40">5.7920855808642182</gnm:Cell>
+        <gnm:Cell Row="31" Col="1" ExprID="1"/>
+        <gnm:Cell Row="31" Col="2" ValueType="40">1.600943975054185</gnm:Cell>
+        <gnm:Cell Row="31" Col="3" ValueType="40">5.5094480422106971</gnm:Cell>
+        <gnm:Cell Row="31" Col="4" ValueType="40">5.5621299322730628</gnm:Cell>
+        <gnm:Cell Row="31" Col="6" ValueType="40">5.3617403553700962</gnm:Cell>
+        <gnm:Cell Row="31" Col="7" ValueType="40">5.8426786826710364</gnm:Cell>
+        <gnm:Cell Row="32" Col="1" ExprID="1"/>
+        <gnm:Cell Row="32" Col="2" ValueType="40">1.6355816704898276</gnm:Cell>
+        <gnm:Cell Row="32" Col="3" ValueType="40">5.3740995548218295</gnm:Cell>
+        <gnm:Cell Row="32" Col="4" ValueType="40">5.5042264568580928</gnm:Cell>
+        <gnm:Cell Row="32" Col="6" ValueType="40">5.4849239480172489</gnm:Cell>
+        <gnm:Cell Row="32" Col="7" ValueType="40">5.8308598252765229</gnm:Cell>
+        <gnm:Cell Row="33" Col="1" ExprID="1"/>
+        <gnm:Cell Row="33" Col="2" ValueType="40">1.6505990100395622</gnm:Cell>
+        <gnm:Cell Row="33" Col="3" ValueType="40">5.4723816116714827</gnm:Cell>
+        <gnm:Cell Row="33" Col="4" ValueType="40">5.5579110218726058</gnm:Cell>
+        <gnm:Cell Row="33" Col="6" ValueType="40">5.4753938514774196</gnm:Cell>
+        <gnm:Cell Row="33" Col="7" ValueType="40">5.7074625687047735</gnm:Cell>
+        <gnm:Cell Row="34" Col="1" ExprID="1"/>
+        <gnm:Cell Row="34" Col="2" ValueType="40">1.6506523056904947</gnm:Cell>
+        <gnm:Cell Row="34" Col="3" ValueType="40">5.4500459084197868</gnm:Cell>
+        <gnm:Cell Row="34" Col="4" ValueType="40">5.5351096865481075</gnm:Cell>
+        <gnm:Cell Row="34" Col="6" ValueType="40">5.4722554435667865</gnm:Cell>
+        <gnm:Cell Row="34" Col="7" ValueType="40">5.7832634360796789</gnm:Cell>
+        <gnm:Cell Row="35" Col="1" ExprID="1"/>
+        <gnm:Cell Row="35" Col="2" ValueType="40">1.649248271965444</gnm:Cell>
+        <gnm:Cell Row="35" Col="3" ValueType="40">5.3288613973884011</gnm:Cell>
+        <gnm:Cell Row="35" Col="4" ValueType="40">5.5379105474127526</gnm:Cell>
+        <gnm:Cell Row="35" Col="6" ValueType="40">5.5495654229153457</gnm:Cell>
+        <gnm:Cell Row="35" Col="7" ValueType="40">5.7665948480605511</gnm:Cell>
+        <gnm:Cell Row="36" Col="1" ExprID="1"/>
+        <gnm:Cell Row="36" Col="2" ValueType="40">1.6474470104753483</gnm:Cell>
+        <gnm:Cell Row="36" Col="3" ValueType="40">5.5221711625176901</gnm:Cell>
+        <gnm:Cell Row="36" Col="4" ValueType="40">5.477700103567126</gnm:Cell>
+        <gnm:Cell Row="36" Col="6" ValueType="40">5.4810339612550578</gnm:Cell>
+        <gnm:Cell Row="36" Col="7" ValueType="40">5.8127019240673405</gnm:Cell>
+        <gnm:Cell Row="37" Col="1" ExprID="1"/>
+        <gnm:Cell Row="37" Col="2" ValueType="40">1.6508768096993978</gnm:Cell>
+        <gnm:Cell Row="37" Col="3" ValueType="40">5.369307175654118</gnm:Cell>
+        <gnm:Cell Row="37" Col="4" ValueType="40">5.5561815665268792</gnm:Cell>
+        <gnm:Cell Row="37" Col="6" ValueType="40">5.4245484492254219</gnm:Cell>
+        <gnm:Cell Row="37" Col="7" ValueType="40">5.6811997616860115</gnm:Cell>
+        <gnm:Cell Row="38" Col="1" ExprID="1"/>
+        <gnm:Cell Row="38" Col="2" ValueType="40">1.6597643097793033</gnm:Cell>
+        <gnm:Cell Row="38" Col="3" ValueType="40">5.5562398149288583</gnm:Cell>
+        <gnm:Cell Row="38" Col="4" ValueType="40">5.5588515479255483</gnm:Cell>
+        <gnm:Cell Row="38" Col="6" ValueType="40">5.5571695578209637</gnm:Cell>
+        <gnm:Cell Row="38" Col="7" ValueType="40">5.8257370362212484</gnm:Cell>
+        <gnm:Cell Row="39" Col="1" ExprID="1"/>
+        <gnm:Cell Row="39" Col="2" ValueType="40">1.6461861974068361</gnm:Cell>
+        <gnm:Cell Row="39" Col="3" ValueType="40">5.5443579806839329</gnm:Cell>
+        <gnm:Cell Row="39" Col="4" ValueType="40">5.5098699175394561</gnm:Cell>
+        <gnm:Cell Row="39" Col="6" ValueType="40">5.4772586231061489</gnm:Cell>
+        <gnm:Cell Row="39" Col="7" ValueType="40">5.7816989035558422</gnm:Cell>
+        <gnm:Cell Row="40" Col="1" ExprID="1"/>
+        <gnm:Cell Row="40" Col="2" ValueType="40">1.6513082909500214</gnm:Cell>
+        <gnm:Cell Row="40" Col="3" ValueType="40">5.5019105115608156</gnm:Cell>
+        <gnm:Cell Row="40" Col="4" ValueType="40">5.5198529900153401</gnm:Cell>
+        <gnm:Cell Row="40" Col="6" ValueType="40">5.5330825221655893</gnm:Cell>
+        <gnm:Cell Row="40" Col="7" ValueType="40">5.6748909655866431</gnm:Cell>
+        <gnm:Cell Row="41" Col="1" ExprID="1"/>
+        <gnm:Cell Row="41" Col="2" ValueType="40">1.6511981757528262</gnm:Cell>
+        <gnm:Cell Row="41" Col="3" ValueType="40">5.4952134302757809</gnm:Cell>
+        <gnm:Cell Row="41" Col="4" ValueType="40">5.4575029901928307</gnm:Cell>
+        <gnm:Cell Row="41" Col="6" ValueType="40">5.5386160438589531</gnm:Cell>
+        <gnm:Cell Row="41" Col="7" ValueType="40">5.7349297491273958</gnm:Cell>
+        <gnm:Cell Row="42" Col="1" ExprID="1"/>
+        <gnm:Cell Row="42" Col="2" ValueType="40">1.6489961403830866</gnm:Cell>
+        <gnm:Cell Row="42" Col="3" ValueType="40">5.4992138797785675</gnm:Cell>
+        <gnm:Cell Row="42" Col="4" ValueType="40">5.3774222136001519</gnm:Cell>
+        <gnm:Cell Row="42" Col="6" ValueType="40">5.5235493390600396</gnm:Cell>
+        <gnm:Cell Row="42" Col="7" ValueType="40">5.778584923375873</gnm:Cell>
+        <gnm:Cell Row="43" Col="1" ExprID="1"/>
+        <gnm:Cell Row="43" Col="2" ValueType="40">1.6447818261089628</gnm:Cell>
+        <gnm:Cell Row="43" Col="3" ValueType="40">5.0923605497148312</gnm:Cell>
+        <gnm:Cell Row="43" Col="4" ValueType="40">5.4568983282578163</gnm:Cell>
+        <gnm:Cell Row="43" Col="6" ValueType="40">5.4852713258470569</gnm:Cell>
+        <gnm:Cell Row="43" Col="7" ValueType="40">5.8110747648567918</gnm:Cell>
+        <gnm:Cell Row="44" Col="1" ExprID="1"/>
+        <gnm:Cell Row="44" Col="2" ValueType="40">1.6580959197877188</gnm:Cell>
+        <gnm:Cell Row="44" Col="3" ValueType="40">5.406727728020714</gnm:Cell>
+        <gnm:Cell Row="44" Col="4" ValueType="40">5.3681268899900196</gnm:Cell>
+        <gnm:Cell Row="44" Col="6" ValueType="40">5.5462358815978199</gnm:Cell>
+        <gnm:Cell Row="44" Col="7" ValueType="40">5.7317526380738917</gnm:Cell>
+        <gnm:Cell Row="45" Col="1" ExprID="1"/>
+        <gnm:Cell Row="45" Col="2" ValueType="40">1.6165662263722469</gnm:Cell>
+        <gnm:Cell Row="45" Col="3" ValueType="40">5.4512760819460064</gnm:Cell>
+        <gnm:Cell Row="45" Col="4" ValueType="40">5.4589089718154442</gnm:Cell>
+        <gnm:Cell Row="45" Col="6" ValueType="40">5.5794170374687351</gnm:Cell>
+        <gnm:Cell Row="45" Col="7" ValueType="40">5.8481370404278099</gnm:Cell>
+        <gnm:Cell Row="46" Col="1" ExprID="1"/>
+        <gnm:Cell Row="46" Col="2" ValueType="40">1.6327147022626209</gnm:Cell>
+        <gnm:Cell Row="46" Col="3" ValueType="40">5.4787470909660723</gnm:Cell>
+        <gnm:Cell Row="46" Col="4" ValueType="40">5.600671703357758</gnm:Cell>
+        <gnm:Cell Row="46" Col="6" ValueType="40">5.5845828907527899</gnm:Cell>
+        <gnm:Cell Row="46" Col="7" ValueType="40">5.7382617767447188</gnm:Cell>
+        <gnm:Cell Row="47" Col="1" ExprID="1"/>
+        <gnm:Cell Row="47" Col="2" ValueType="40">1.6614693435323749</gnm:Cell>
+        <gnm:Cell Row="47" Col="3" ValueType="40">5.4922655038615504</gnm:Cell>
+        <gnm:Cell Row="47" Col="4" ValueType="40">5.5238571948041582</gnm:Cell>
+        <gnm:Cell Row="47" Col="6" ValueType="40">5.424381053705142</gnm:Cell>
+        <gnm:Cell Row="47" Col="7" ValueType="40">5.7621475025625779</gnm:Cell>
+        <gnm:Cell Row="48" Col="1" ExprID="1"/>
+        <gnm:Cell Row="48" Col="2" ValueType="40">1.6571435045103777</gnm:Cell>
+        <gnm:Cell Row="48" Col="3" ValueType="40">5.4996469218317428</gnm:Cell>
+        <gnm:Cell Row="48" Col="4" ValueType="40">5.5531156183138686</gnm:Cell>
+        <gnm:Cell Row="48" Col="6" ValueType="40">5.5039809530876038</gnm:Cell>
+        <gnm:Cell Row="48" Col="7" ValueType="40">5.7854422547223203</gnm:Cell>
+        <gnm:Cell Row="49" Col="1" ExprID="1"/>
+        <gnm:Cell Row="49" Col="2" ValueType="40">1.6567305801344221</gnm:Cell>
+        <gnm:Cell Row="49" Col="3" ValueType="40">5.4732381137652064</gnm:Cell>
+        <gnm:Cell Row="49" Col="4" ValueType="40">5.4320205730118776</gnm:Cell>
+        <gnm:Cell Row="49" Col="6" ValueType="40">5.5111033850780036</gnm:Cell>
+        <gnm:Cell Row="49" Col="7" ValueType="40">5.8416724495260848</gnm:Cell>
+        <gnm:Cell Row="50" Col="1" ExprID="1"/>
+        <gnm:Cell Row="50" Col="2" ValueType="40">1.6740272535120393</gnm:Cell>
+        <gnm:Cell Row="50" Col="3" ValueType="40">5.494972216587918</gnm:Cell>
+        <gnm:Cell Row="50" Col="4" ValueType="40">5.5635803195593967</gnm:Cell>
+        <gnm:Cell Row="50" Col="6" ValueType="40">5.5019823649458646</gnm:Cell>
+        <gnm:Cell Row="50" Col="7" ValueType="40">5.8172195762206913</gnm:Cell>
+        <gnm:Cell Row="51" Col="1" ExprID="1"/>
+        <gnm:Cell Row="51" Col="2" ValueType="40">1.627575678819249</gnm:Cell>
+        <gnm:Cell Row="51" Col="3" ValueType="40">5.5212838271907154</gnm:Cell>
+        <gnm:Cell Row="51" Col="4" ValueType="40">5.5297755247630196</gnm:Cell>
+        <gnm:Cell Row="51" Col="6" ValueType="40">5.5134335683753184</gnm:Cell>
+        <gnm:Cell Row="51" Col="7" ValueType="40">5.72243521315783</gnm:Cell>
+        <gnm:Cell Row="52" Col="1" ExprID="1"/>
+        <gnm:Cell Row="52" Col="2" ValueType="40">1.6467674843530429</gnm:Cell>
+        <gnm:Cell Row="52" Col="3" ValueType="40">5.5032829166375077</gnm:Cell>
+        <gnm:Cell Row="52" Col="4" ValueType="40">5.5224404728951813</gnm:Cell>
+        <gnm:Cell Row="52" Col="6" ValueType="40">5.473385409258575</gnm:Cell>
+        <gnm:Cell Row="52" Col="7" ValueType="40">5.7490447134431131</gnm:Cell>
+        <gnm:Cell Row="53" Col="1" ExprID="1"/>
+        <gnm:Cell Row="53" Col="2" ValueType="40">1.6413008801364324</gnm:Cell>
+        <gnm:Cell Row="53" Col="3" ValueType="40">5.3866239514892493</gnm:Cell>
+        <gnm:Cell Row="53" Col="4" ValueType="40">5.5669736608688023</gnm:Cell>
+        <gnm:Cell Row="53" Col="6" ValueType="40">5.4515119646139167</gnm:Cell>
+        <gnm:Cell Row="53" Col="7" ValueType="40">5.7668928290721411</gnm:Cell>
+        <gnm:Cell Row="54" Col="1" ExprID="1"/>
+        <gnm:Cell Row="54" Col="2" ValueType="40">1.6460819801784865</gnm:Cell>
+        <gnm:Cell Row="54" Col="3" ValueType="40">5.4486072968094694</gnm:Cell>
+        <gnm:Cell Row="54" Col="4" ValueType="40">5.5183202379987861</gnm:Cell>
+        <gnm:Cell Row="54" Col="6" ValueType="40">5.483978352775992</gnm:Cell>
+        <gnm:Cell Row="54" Col="7" ValueType="40">5.7830797962109157</gnm:Cell>
+        <gnm:Cell Row="55" Col="1" ExprID="1"/>
+        <gnm:Cell Row="55" Col="2" ValueType="40">1.6407474208756183</gnm:Cell>
+        <gnm:Cell Row="55" Col="3" ValueType="40">5.4158369861924802</gnm:Cell>
+        <gnm:Cell Row="55" Col="4" ValueType="40">5.5231316486372712</gnm:Cell>
+        <gnm:Cell Row="55" Col="6" ValueType="40">5.3789113259620693</gnm:Cell>
+        <gnm:Cell Row="55" Col="7" ValueType="40">5.8062306029065196</gnm:Cell>
+        <gnm:Cell Row="56" Col="1" ExprID="1"/>
+        <gnm:Cell Row="56" Col="2" ValueType="40">1.6366598773185395</gnm:Cell>
+        <gnm:Cell Row="56" Col="3" ValueType="40">5.4366632172247931</gnm:Cell>
+        <gnm:Cell Row="56" Col="4" ValueType="40">5.5409597702162943</gnm:Cell>
+        <gnm:Cell Row="56" Col="6" ValueType="40">5.3374944197339209</gnm:Cell>
+        <gnm:Cell Row="56" Col="7" ValueType="40">5.8130219361018058</gnm:Cell>
+        <gnm:Cell Row="58" Col="1" ValueType="60">Param</gnm:Cell>
+        <gnm:Cell Row="58" Col="2" ValueType="60">FF151/F42</gnm:Cell>
+        <gnm:Cell Row="58" Col="3" ValueType="60">FF152/GCC</gnm:Cell>
+        <gnm:Cell Row="58" Col="4" ValueType="60">FF152/GCC+LTO</gnm:Cell>
+        <gnm:Cell Row="58" Col="6" ValueType="60">FF152/Clang</gnm:Cell>
+        <gnm:Cell Row="58" Col="7" ValueType="60">FF152/Clang+LTO</gnm:Cell>
+        <gnm:Cell Row="58" Col="10" ValueType="60">FF151/F42</gnm:Cell>
+        <gnm:Cell Row="58" Col="11" ValueType="60">FF152/GCC</gnm:Cell>
+        <gnm:Cell Row="58" Col="12" ValueType="60">FF152/GCC+LTO</gnm:Cell>
+        <gnm:Cell Row="58" Col="13" ValueType="60">FF152/Clang</gnm:Cell>
+        <gnm:Cell Row="58" Col="14" ValueType="60">FF152/Clang+LTO</gnm:Cell>
+        <gnm:Cell Row="59" Col="1" ValueType="60">Minimum</gnm:Cell>
+        <gnm:Cell Row="59" Col="2">=min($C$8:$C$57)</gnm:Cell>
+        <gnm:Cell Row="59" Col="3" ExprID="2">=min(D$8:D$57)</gnm:Cell>
+        <gnm:Cell Row="59" Col="4" ExprID="2"/>
+        <gnm:Cell Row="59" Col="6" ExprID="2"/>
+        <gnm:Cell Row="59" Col="7" ExprID="2"/>
+        <gnm:Cell Row="60" Col="1" ValueType="60">Kwartyl I</gnm:Cell>
+        <gnm:Cell Row="60" Col="2">=percentile($C$8:$C$57,0.25)</gnm:Cell>
+        <gnm:Cell Row="60" Col="3" ExprID="3">=percentile(D$8:D$57,0.25)</gnm:Cell>
+        <gnm:Cell Row="60" Col="4" ExprID="3"/>
+        <gnm:Cell Row="60" Col="6" ExprID="3"/>
+        <gnm:Cell Row="60" Col="7" ExprID="3"/>
+        <gnm:Cell Row="61" Col="1" ValueType="60">Kwartyl II</gnm:Cell>
+        <gnm:Cell Row="61" Col="2">=percentile($C$8:$C$57,0.5)</gnm:Cell>
+        <gnm:Cell Row="61" Col="3" ExprID="4">=percentile(D$8:D$57,0.5)</gnm:Cell>
+        <gnm:Cell Row="61" Col="4" ExprID="4"/>
+        <gnm:Cell Row="61" Col="6" ExprID="4"/>
+        <gnm:Cell Row="61" Col="7" ExprID="4"/>
+        <gnm:Cell Row="62" Col="1" ValueType="60">Kwartyl III</gnm:Cell>
+        <gnm:Cell Row="62" Col="2">=percentile($C$8:$C$57,0.75)</gnm:Cell>
+        <gnm:Cell Row="62" Col="3" ExprID="5">=percentile(D$8:D$57,0.75)</gnm:Cell>
+        <gnm:Cell Row="62" Col="4" ExprID="5"/>
+        <gnm:Cell Row="62" Col="6" ExprID="5"/>
+        <gnm:Cell Row="62" Col="7" ExprID="5"/>
+        <gnm:Cell Row="63" Col="1" ValueType="60">Maximum</gnm:Cell>
+        <gnm:Cell Row="63" Col="2">=max($C$8:$C$57)</gnm:Cell>
+        <gnm:Cell Row="63" Col="3" ExprID="6">=max(D$8:D$57)</gnm:Cell>
+        <gnm:Cell Row="63" Col="4" ExprID="6"/>
+        <gnm:Cell Row="63" Col="6" ExprID="6"/>
+        <gnm:Cell Row="63" Col="7" ExprID="6"/>
+        <gnm:Cell Row="65" Col="1" ValueType="60">Average</gnm:Cell>
+        <gnm:Cell Row="65" Col="2" ExprID="7">=average($C$8:$C$57)</gnm:Cell>
+        <gnm:Cell Row="65" Col="3" ExprID="8">=average($D$8:$D$57)</gnm:Cell>
+        <gnm:Cell Row="65" Col="4" ExprID="9">=average($E$8:$E$57)</gnm:Cell>
+        <gnm:Cell Row="65" Col="6" ExprID="10">=average($G$8:$G$57)</gnm:Cell>
+        <gnm:Cell Row="65" Col="7" ExprID="11">=average($H$8:$H$57)</gnm:Cell>
+        <gnm:Cell Row="65" Col="10" ExprID="7"/>
+        <gnm:Cell Row="65" Col="11" ExprID="8"/>
+        <gnm:Cell Row="65" Col="12" ExprID="9"/>
+        <gnm:Cell Row="65" Col="13" ExprID="10"/>
+        <gnm:Cell Row="65" Col="14" ExprID="11"/>
+        <gnm:Cell Row="66" Col="1" ValueType="60">Stdev</gnm:Cell>
+        <gnm:Cell Row="66" Col="2" ExprID="12">=stdev(C$8:C$57)</gnm:Cell>
+        <gnm:Cell Row="66" Col="3" ExprID="12"/>
+        <gnm:Cell Row="66" Col="4" ExprID="12"/>
+        <gnm:Cell Row="66" Col="6" ExprID="12"/>
+        <gnm:Cell Row="66" Col="7" ExprID="12"/>
+      </gnm:Cells>
+      <gnm:MergedRegions>
+        <gnm:Merge>D6:F6</gnm:Merge>
+        <gnm:Merge>G6:I6</gnm:Merge>
+        <gnm:Merge>D5:I5</gnm:Merge>
+        <gnm:Merge>D4:I4</gnm:Merge>
+      </gnm:MergedRegions>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>
